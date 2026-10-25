@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Database / Secrets
+*.sqlite3
+.env
+extracted_database.json
+
+# PDFs
+*.pdf

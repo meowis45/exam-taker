@@ -1,0 +1,227 @@
+--- JEE Main Straight Lines and Pair of Straight Lines Previous Year Questions with Answer Key.pdf page 5 ---
+{
+  "questions": [
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "A line passes through the origin and makes equal angles with the positive coordinate axes. It intersects the lines $ L_1 : 2x + y + 6 = 0 $ and $ L_2 : 4x + 2y - p = 0 $, $ p > 0 $, at the points A and B, respectively. If $ AB = \\frac{9}{\\sqrt{2}} $ and the foot of the perpendicular from the point A on the line $ L_2 $ is M, then $ \\frac{AM}{BM} $ is equal to",
+      "option_a": "(A) 5",
+      "option_b": "(B) 3",
+      "option_c": "(C) 2",
+      "option_d": "(D) 4",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option
+
+--- JEE Main Straight Lines and Pair of Straight Lines Previous Year Questions with Answer Key.pdf page 6 ---
+{
+  "questions": [
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "Let the points $ \\left( \\frac{11}{2}, \\alpha \\right) $ lie on or inside the triangle with sides $ x + y = 11 $, $ x + 2y = 16 $ and $ 2x + 3y = 29 $. Then the product of the smallest and the largest values of $ \\alpha $ is equal to :",
+      "option_a": "(A) 22",
+      "option_b": "(B) 33",
+      "option_c": "(C) 55",
+      "option_d": "(D) 44",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "Let the lines $ 3x - 4y - \\alpha = 0 $, $ 8x - 11y - 33 = 0 $, and $ 2x - 3y + \\lambda = 0 $ be concurrent. If the image of the point $ (1, 2) $ in the line $ 2x - 3y + \\lambda = 0 $ is $ \\left( \\frac{57}{13}, \\frac{-40}{13} \\right) $, then $ |\\alpha| $ is equal to :",
+      "option_a": "(A) 91",
+      "option_b": "(B) 113",
+      "option_c": "(C) 101",
+      "option_d": "(D) 84",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "A rod of length eight units moves such that its ends $ A $ and $ B $ always lie on the lines $ x - y + 2 = 0 $ and $ y + 2 = 0 $, respectively. If the locus of the point $ P $, that divides the rod $ AB $ internally in the ratio $ 2:1 $ is $ 9(x^2 + ay^2 + \\beta xy + \\gamma x + 28y) - 76 = 0 $, then $ \\alpha - \\beta - \\gamma $ is equal to :",
+      "option_a": "(A) 24",
+      "option_b": "(B) 22",
+      "option_c": "(C) 21",
+      "option_d": "(D) 23",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "Let the area of a $ \\triangle PQR $ with vertices $ P(5, 4) $, $ Q(-2, 4) $ and $ R(a, b) $ be 35 square units. If its orthocenter and centroid are $ O\\left( 2, \\frac{14}{5} \\right) $ and $ C(c, d) $ respectively, then $ c + 2d $ is equal to :",
+      "option_a": "(A) 3",
+      "option_b": "(B) $ \\frac{7}{3} $",
+      "option_c": "(C) 2",
+      "option_d": "(D) $ \\frac{8}{3} $",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "Let the triangle $ PQR $ be the image of the triangle with vertices $ (1, 3) $, $ (3, 1) $ and $ (2, 4) $ in the line $ x + 2y = 2 $. If the centroid of $ \\triangle PQR $ is the point $ (\\alpha, \\beta) $, then $ 15(\\alpha - \\beta) $ is equal to :",
+      "option_a": "(A) 21",
+      "option_b": "(B) 19",
+      "option_c": "(C) 22",
+      "option_d": "(D) 24",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "A variable line $ L $ passes through the point $ (3, 5) $ and intersects the positive coordinate axes at the points $ A $ and $ B $. The minimum area of the triangle $ OAB $, where $ O $ is the origin, is :",
+      "option_a": "(A) 35",
+      "option_b": "(B) 25",
+      "option_c": "(C) 30",
+      "option_d": "(D) 40",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines",
+      "question_text": "A ray of light coming from the point $ P(1, 2) $ gets reflected from the point $ Q $ on the $ x $-axis and then passes through the point $ R(4, 3) $. If the point $ S(h, k) $ is such that $ PQRS $ is a parallelogram, then $ hk^2 $ is equal to :",
+      "option_a": "(A) 60",
+      "
+
+--- JEE Main Straight Lines and Pair of Straight Lines Previous Year Questions with Answer Key.pdf page 7 ---
+{
+  "questions": [
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q32. JEE Main 2024 (Online) 8th April Evening Shift\nIf the line segment joining the points (5,2) and (2,a) subtends an angle \\( \\frac{\\pi}{4} \\) at the origin, then the absolute value of the product of all possible values of \\( a \\) is:\n(A) 4\n(B) 8\n(C) 6\n(D) 2",
+      "option_a": "(A) 4",
+      "option_b": "(B) 8",
+      "option_c": "(C) 6",
+      "option_d": "(D) 2",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q33. JEE Main 2024 (Online) 8th April Morning Shift\nThe equations of two sides AB and AC of a triangle ABC are \\( 4x + y = 14 \\) and \\( 3x - 2y = 5 \\), respectively. The point \\( (2, -\\frac{4}{3}) \\) divides the third side BC internally in the ratio 2 : 1, the equation of the side BC is\n(A) \\( x + 6y + 6 = 0 \\)\n(B) \\( x - 3y - 6 = 0 \\)\n(C) \\( x + 3y + 2 = 0 \\)\n(D) \\( x - 6y - 10 = 0 \\)",
+      "option_a": "(A) \\( x + 6y + 6 = 0 \\)",
+      "option_b": "(B) \\( x - 3y - 6 = 0 \\)",
+      "option_c": "(C) \\( x + 3y + 2 = 0 \\)",
+      "option_d": "(D) \\( x - 6y - 10 = 0 \\)",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q34. JEE Main 2024 (Online) 6th April Evening Shift\nIf the locus of the point, whose distances from the point (2,1) and (1,3) are in the ratio 5 : 4, is \\( ax^2 + by^2 + cxy + dx + ey + 170 = 0 \\), then the value of \\( a^2 + 2b + 3c + 4d + e \\) is equal to:\n(A) 37\n(B) -27\n(C) 437\n(D) 5",
+      "option_a": "(A) 37",
+      "option_b": "(B) -27",
+      "option_c": "(C) 437",
+      "option_d": "(D) 5",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q35. JEE Main 2024 (Online) 6th April Morning Shift\nLet a variable line of slope \\( m > 0 \\) passing through the point (4, -9) intersect the coordinate axes at the points A and B. The minimum value of the sum of the distances of A and B from the origin is\n(A) 30\n(B) 15\n(C) 10\n(D) 25",
+      "option_a": "(A) 30",
+      "option_b": "(B) 15",
+      "option_c": "(C) 10",
+      "option_d": "(D) 25",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q36. JEE Main 2024 (Online) 5th April Evening Shift\nLet \\( A(-1,1) \\) and \\( B(2,3) \\) be two points and P be a variable point above the line AB such that the area of \\( \\triangle PAB \\) is 10. If the locus of P is \\( ax + by = 15 \\), then \\( 5a + 2b \\) is:\n(A) \\( -\\frac{12}{5} \\)\n(B) \\( -\\frac{6}{5} \\)\n(C) 6\n(D) 4",
+      "option_a": "(A) \\( -\\frac{12}{5} \\)",
+      "option_b": "(B) \\( -\\frac{6}{5} \\)",
+      "option_c": "(C) 6",
+      "option_d": "(D) 4",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q37. JEE Main 2024 (Online) 5th April Morning Shift\nLet two straight lines drawn from the origin O intersect the line \\( 3x + 4y = 12 \\) at the points P and Q such that \\( \\triangle OPQ \\) is an isosceles triangle and \\( \\angle POQ = 90^\\circ \\). If \\( l = OP^2 + PQ^2 + QO^2 \\), then the greatest integer less than or equal to \\( l \\) is:\n(A) 42\n(B) 46\n(C) 48\n(D) 44",
+      "option_a": "(A) 42",
+      "option_b": "(B) 46",
+      "option_c": "(C) 48",
+      "option_d": "(D) 44",
+      "correct_option": "NONE",
+      "question_figure": [],
+      "option_a_figure": [],
+      "option_b_figure": [],
+      "option_c_figure": [],
+      "option_d_figure": []
+    },
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q38. JEE Main 2024 (Online) 4th April Morning Shift\nThe vertices of a triangle are \\( A(-1,3) \\), \\( B(-2,2) \\) and \\( C(3,-1) \\). A new triangle is formed by shifting the sides of the triangle by one unit inwards. Then the equation of the side of the new triangle nearest to origin is:\n(A) \\( -x + y - (2 - \\sqrt{2}) = 0 \\)\n(B) \\( x + y - (2 - \\sqrt{2}) = 0 \\)\n(C)
+
+--- JEE Main Straight Lines and Pair of Straight Lines Previous Year Questions with Answer Key.pdf page 11 ---
+{
+  "questions": [
+    {
+      "subject": "Math",
+      "chapter": "Straight Lines and Pair of Straight Lines",
+      "question_text": "Q56. JEE Main 2022 (Online) 29th July Evening Shift\nLet $ m_1, m_2 $ be the slopes of two adjacent sides of a square of side $ a $ such that $ a^2 + 11a + 3(m_1^2 + m_2^2) = 220 $. If one vertex of the square is $ (10(\\cos \\alpha - \\sin \\alpha),
+
+--- JEE Main Straight Lines and Pair of Straight Lines Previous Year Questions with Answer Key.pdf page 13 ---
+
+
